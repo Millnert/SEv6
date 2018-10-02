@@ -47,7 +47,7 @@ Boot-strapping / How to add information:
 ## Communication Operator x ISP x Location matrix
 
 | Communication Operator | ISP        | Location   | Support level                |
-|---------------------- -|------------|------------|------------------------------|
+|------------------------|------------|------------|------------------------------|
 | IP-Only                | Bahnhof    | Stockholm  | Native IPv6                  |
 | IP-Only                | Bahnhof    | Göteborg   | Native IPv6                  |
 | Itux                   |            | National   | Next-gen platform IPv6-ready |
