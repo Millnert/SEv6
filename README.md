@@ -8,9 +8,10 @@ Boot-strapping / How to add information:
 
 ## Local/Muni Networks
 
-| Name           | Location    | Communication Operator | Status      |
-|----------------|-------------|------------------------|-------------|
-| Kraftringen    | Lund        | Zitius?                | No support  |
+| Name           | Location                  | Communication Operator | Status      |
+|----------------|---------------------------|------------------------|-------------|
+| Kraftringen    | Eslöv, Lund, Lomma, Hörby | Zitius                 | No support  |
+| SB Bredband    | Stockholm                 | Zitius                 | No support  |
 
 ## Communication Operators
 
@@ -20,7 +21,7 @@ Boot-strapping / How to add information:
 | Itux                  | National | Next-gen platform IPv6-ready |
 | Telenor Open Universe | National | ?                            |
 | Telia Open Fiber      | National | ?                            |
-| Zitius                | National | ?                            |
+| Zitius                | National | No support                   |
 
 ## (Fixed) ISP:s (residential access)
 
