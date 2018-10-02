@@ -3,7 +3,7 @@
 Boot-strapping / How to add information:
 
  * Email me new information at martin@millnert.se
- * Want to committ directly? Contact me
+ * Want to commit directly? Contact me
  * Send PR
 
 ## Local/Muni Networks
