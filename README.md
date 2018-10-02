@@ -58,10 +58,10 @@ Boot-strapping / How to add information:
 
 ## Mobile Operators
 
-| Name                | Support level                                   |
-|---------------------|-------------------------------------------------|
-| Net1                | ?                                               |
-| Telia               | ?                                               |
-| Tele2               | Dual-stack supported                            |
-| Telenor             | No support (as of 2018-10-02)                   |
-| Tre                 | Dual-stack, 60% IPv6 enabled (as of 2018-10-02) |
+| Name                | Support level                                                  |
+|---------------------|----------------------------------------------------------------|
+| Net1                | ?                                                              |
+| Telia               | ?                                                              |
+| Tele2               | Dual-stack supported                                           |
+| Telenor             | No support (as of 2018-10-02)                                  |
+| Tre                 | Fully dual-stack enabled. 60% users on IPv6 (as of 2018-10-02) |
