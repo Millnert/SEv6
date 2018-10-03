@@ -17,10 +17,10 @@ Boot-strapping / How to add information:
 
 | Name                  | Location | IPv6 support level           |
 |-----------------------|----------|------------------------------|
-| IP-Only               | National | Native IPv6 in production    |
+| IP-Only               | National | Native IPv6 supported        |
 | Itux                  | National | IPv6 not supported           |
 | Telenor Open Universe | National | ?                            |
-| Telia Open Fiber      | National | ?                            |
+| Telia Open Fiber      | National | 6RD supported                |
 | Zitius                | National | IPv6 not supported           |
 
 ## (Fixed) ISP:s (residential access)
@@ -48,10 +48,12 @@ Boot-strapping / How to add information:
 
 ## Communication Operator x ISP x Location matrix
 
-| Communication Operator | ISP        | Location   | IPv6 support level           |
-|------------------------|------------|------------|------------------------------|
-| IP-Only                | Bahnhof    | Stockholm  | Native IPv6 in production    |
-| IP-Only                | Bahnhof    | Göteborg   | Native IPv6 in production    |
+| Communication Operator | ISP        | Location     | IPv6 support level           |
+|------------------------|------------|--------------|------------------------------|
+| IP-Only                | Bahnhof    | Stockholm    | Native IPv6 in production    |
+| IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
+| IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
+| Telia Open Fiber       | Telia      | Östergötland | 6RD in production            |
 
 ## Mobile Operators
 
