@@ -8,53 +8,50 @@ Boot-strapping / How to add information:
 
 ## Local/Muni Networks
 
-| Name           | Location                  | Communication Operator | Status      |
-|----------------|---------------------------|------------------------|-------------|
-| Kraftringen    | Eslöv, Lund, Lomma, Hörby | Zitius                 | No support  |
-| SB Bredband    | Stockholm                 | Zitius                 | No support  |
+| Name           | Location                  | Communication Operator | IPv6 support level |
+|----------------|---------------------------|------------------------|--------------------|
+| Kraftringen    | Eslöv, Lund, Lomma, Hörby | Zitius                 | IPv6 not supported |
+| SB Bredband    | Stockholm                 | Zitius                 | IPv6 not supported |
 
 ## Communication Operators
 
-| Name                  | Location | Support level                |
+| Name                  | Location | IPv6 support level           |
 |-----------------------|----------|------------------------------|
 | IP-Only               | National | Native IPv6 in production    |
-| Itux                  | National | Next-gen platform IPv6-ready |
+| Itux                  | National | IPv6 not supported           |
 | Telenor Open Universe | National | ?                            |
 | Telia Open Fiber      | National | ?                            |
-| Zitius                | National | No support                   |
+| Zitius                | National | IPv6 not supported           |
 
 ## (Fixed) ISP:s (residential access)
 
-| Name                | Support level        |
-|---------------------|----------------------|
-| A3                  |                      |
-| Bahnhof             |                      |
-| Boxer               |                      |
-| Bredband 2          |                      |
-| Bredbandsbolaget    |                      |
-| Bredbandsson        |                      |
-| Com Hem             | Native IPv6 (Cable)  |
-| IP Only             |                      |
-| IP Sweden           |                      |
-| Net At Once         |                      |
-| OBENETWORKIP Only   |                      |
-| Stockholms Stadsnät |                      |
-| Telenor             |                      |
-| Tele2               |                      |
-| Telia               |                      |
-| Viasat              |                      |
+| Name                | Product    | IPv6 support level         |
+|---------------------|------------|----------------------------|
+| A3                  |            |                            |
+| Bahnhof             |            |                            |
+| Boxer               |            |                            |
+| Bredband 2          |            |                            |
+| Bredbandsbolaget    |            |                            |
+| Bredbandsson        |            |                            |
+| Com Hem             | DOCSIS     | Native IPv6 in production  |
+| IP Only             |            |                            |
+| IP Sweden           |            |                            |
+| Net At Once         |            |                            |
+| OBENETWORKIP Only   |            |                            |
+| Riksnet             | BRF        | IPv6 not supported         |
+| Stockholms Stadsnät |            |                            |
+| Telenor             |            |                            |
+| Tele2               |            |                            |
+| Telia               | Villafiber | IPv6 not supported         |
+| Viasat              |            |                            |
 
 
 ## Communication Operator x ISP x Location matrix
 
-| Communication Operator | ISP        | Location   | Support level                |
+| Communication Operator | ISP        | Location   | IPv6 support level           |
 |------------------------|------------|------------|------------------------------|
-| IP-Only                | Bahnhof    | Stockholm  | Native IPv6                  |
-| IP-Only                | Bahnhof    | Göteborg   | Native IPv6                  |
-| Itux                   |            | National   | Next-gen platform IPv6-ready |
-| Telenor Open Universe  |            | National   | ?                            |
-| Telia Open Fiber       |            | National   | ?                            |
-| Zitius                 |            | National   | ?                            |
+| IP-Only                | Bahnhof    | Stockholm  | Native IPv6 in production    |
+| IP-Only                | Bahnhof    | Göteborg   | Native IPv6 in production    |
 
 ## Mobile Operators
 
