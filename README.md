@@ -15,22 +15,23 @@ Boot-strapping / How to add information:
 
 ## Communication Operators
 
-| Name                  | Location | IPv6 support level           |
-|-----------------------|----------|------------------------------|
-| IP-Only               | National | Native IPv6 supported        |
-| Itux                  | National | IPv6 not supported           |
-| Telenor Open Universe | National | ?                            |
-| Telia Open Fiber      | National | 6RD supported                |
-| Zitius                | National | IPv6 not supported           |
+| Name                  | Location | IPv6 support level                |
+|-----------------------|----------|-----------------------------------|
+| IP-Only               | National | Native IPv6 supported, but where? |
+| Itux                  | National | IPv6 not supported                |
+| Telenor Open Universe | National | ?                                 |
+| Telia Open Fiber      | National |                                   |
+| Zitius                | National | IPv6 not supported                |
+| Viaeuropa             | National | IPv6 not supported                |
 
 ## (Fixed) ISP:s (residential access)
 
 | Name                | Product    | IPv6 support level         |
 |---------------------|------------|----------------------------|
 | A3                  |            |                            |
-| Bahnhof             |            |                            |
+| Bahnhof             |            |IPv6 where they can         |
 | Boxer               |            |                            |
-| Bredband 2          |            |                            |
+| Bredband 2          |            | IPv6 where they can        |
 | Bredbandsbolaget    |            |                            |
 | Bredbandsson        |            |                            |
 | Com Hem             | DOCSIS     | Native IPv6 in production  |
@@ -44,6 +45,17 @@ Boot-strapping / How to add information:
 | Tele2               |            |                            |
 | Telia               | Villafiber | IPv6 not supported         |
 | Viasat              |            |                            |
+| Gavlenet            | FTTH       | Native for some and 6RD    |
+| Dalakraft Bredband  |            |                            |
+| Bredbandstjänster   |            |                            |
+| Univsersal Telecom  |            |                            |
+| Netit               |            |                            |
+| IT system i Dalarna |            |                            |
+| Ownit               |            |                            |
+| Internetport        |            | Native v4 and CGN          |
+| Arkaden             |            | IPv6 where they can        |
+
+
 
 
 ## Communication Operator x ISP x Location matrix
