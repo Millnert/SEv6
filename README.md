@@ -54,6 +54,13 @@ Boot-strapping / How to add information:
 | Ownit               |            |                            |
 | Internetport        |            | Native v4 and CGN          |
 | Arkaden             |            | IPv6 where they can        |
+| Inleed              |            |                            |
+| Sattelithuset i     |            |                            |
+| Limmared AB         |            |                            |
+| Fiberstaden AB      |            | Om det får tummen ur       |
+| Lidendata           |            |                            |
+| Tyfon               |            |                            |
+
 
 
 
