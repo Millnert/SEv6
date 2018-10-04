@@ -61,7 +61,7 @@ Boot-strapping / How to add information:
 | Lidendata           |            |                            |
 | Tyfon               |            |                            |
 | Daladatorer Mora    |            |                            |
-| IT system Dalarna   |            |                            |
+| Sappa               |            |                            |
 
 ## Communication Operator x ISP x Location matrix
 
