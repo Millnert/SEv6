@@ -60,10 +60,8 @@ Boot-strapping / How to add information:
 | Fiberstaden AB      |            | Om det får tummen ur       |
 | Lidendata           |            |                            |
 | Tyfon               |            |                            |
-
-
-
-
+| Daladatorer Mora    |            |                            |
+| IT system Dalarna   |            |                            |
 
 ## Communication Operator x ISP x Location matrix
 
