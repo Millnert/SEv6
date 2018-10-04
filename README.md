@@ -65,14 +65,16 @@ Boot-strapping / How to add information:
 | IP-Only                | Bahnhof    | Stockholm    | Native IPv6 in production    |
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
-| Telia Open Fiber       | Telia      | Östergötland | 6RD in production            |
+| IP-Only                | Bahnof     |  -----       | Waiting for IPv6             |
 
 ## Mobile Operators
 
 | Name                | Support level                                                  |
 |---------------------|----------------------------------------------------------------|
-| Net1                | ?                                                              |
-| Telia               | ?                                                              |
+| Net1                | No                                                             |
+| Telia               | no                                                             |
+| Telavox             | Depending on Telia                                             |
+| Comvic              | As Tele2                                                       |
 | Tele2               | Dual-stack supported                                           |
 | Telenor             | No support (as of 2018-10-02)                                  |
 | Tre                 | Fully dual-stack enabled. 60% users on IPv6 (as of 2018-10-02) |
