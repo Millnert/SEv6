@@ -62,6 +62,11 @@ Boot-strapping / How to add information:
 | Tyfon               |            |                            |
 | Daladatorer Mora    |            |                            |
 | Sappa               |            |                            |
+| Sandnet             |            |                            |
+| Ljusnet             |            |                            |
+| Söderhamn nära      |            |                            |
+| Helsingenet         |            |                            |
+| Bollnäs Energi      |            |                            |
 
 ## Communication Operator x ISP x Location matrix
 
