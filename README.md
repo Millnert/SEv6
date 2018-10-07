@@ -8,10 +8,11 @@ Boot-strapping / How to add information:
 
 ## Local/Muni Networks
 
-| Name           | Location                  | Communication Operator | IPv6 support level |
-|----------------|---------------------------|------------------------|--------------------|
-| Kraftringen    | Eslöv, Lund, Lomma, Hörby | Zitius                 | IPv6 not supported |
-| SB Bredband    | Stockholm                 | Zitius                 | IPv6 not supported |
+| Name                  | Location                  | Communication Operator | IPv6 support level                  |
+|-----------------------|---------------------------|------------------------|-------------------------------------|
+| Sundbybergs Stadsnät  | Sundbyberg                |                        | IPv6 is an opt-in, charged, service |
+| Kraftringen           | Eslöv, Lund, Lomma, Hörby | Zitius                 | IPv6 not supported                  |
+| SB Bredband           | Stockholm                 | Zitius                 | IPv6 not supported                  |
 
 ## Communication Operators
 
