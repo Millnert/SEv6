@@ -41,7 +41,7 @@ Boot-strapping / How to add information:
 | IP Only             |            |                            |
 | IP Sweden           |            |                            |
 | Net At Once         |            |                            |
-| OBENETWORKIP Only   |            |                            |
+| OBENETWORK          |            |                            |
 | Riksnet             | BRF        | IPv6 not supported         |
 | Stockholms Stadsnät |            |                            |
 | Telenor             |            |                            |
@@ -87,7 +87,7 @@ Boot-strapping / How to add information:
 | Net1                | No                                                             |
 | Telia               | no                                                             |
 | Telavox             | Depending on Telia                                             |
-| Comvic              | As Tele2                                                       |
+| Comviq              | As Tele2                                                       |
 | Tele2               | Dual-stack supported                                           |
 | Telenor             | No support (as of 2018-10-02)                                  |
 | Tre                 | Fully dual-stack enabled. 60% users on IPv6 (as of 2018-10-02) |
