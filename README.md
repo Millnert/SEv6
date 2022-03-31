@@ -21,7 +21,7 @@ Boot-strapping / How to add information:
 | Name                  | Location | IPv6 support level                |
 |-----------------------|----------|-----------------------------------|
 | IP-Only               | National | Native IPv6 supported, but where? |
-| Itux                  | National | IPv6 not supported                |
+| Itux                  | National | IPv6 supported throughout         |
 | Telenor Open Universe | National | IPv6 not supported                |
 | Telia Open Fiber      | National |                                   |
 | Zitius                | National | IPv6 not supported                |
