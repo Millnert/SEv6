@@ -78,7 +78,7 @@ Boot-strapping / How to add information:
 | IP-Only                | Bahnhof    | Stockholm    | Native IPv6 in production    |
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
-| IP-Only                | Bahnof     |  -----       | Waiting for IPv6             |
+| IP-Only                | Bahnhof    |  -----       | Waiting for IPv6             |
 
 ## Mobile Operators
 
