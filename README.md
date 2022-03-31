@@ -22,7 +22,7 @@ Boot-strapping / How to add information:
 |-----------------------|----------|-----------------------------------|
 | IP-Only               | National | Native IPv6 supported, but where? |
 | Itux                  | National | IPv6 not supported                |
-| Telenor Open Universe | National | ?                                 |
+| Telenor Open Universe | National | IPv6 not supported                |
 | Telia Open Fiber      | National |                                   |
 | Zitius                | National | IPv6 not supported                |
 | Viaeuropa             | National | IPv6 not supported                |
