@@ -79,6 +79,9 @@ Boot-strapping / How to add information:
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
 | IP-Only                | Bahnhof    | Göteborg     | Native IPv6 in production    |
 | IP-Only                | Bahnhof    |  -----       | Waiting for IPv6             |
+| Kurbit                 | Bahnhof    |              | Native IPv6 in production    |
+| Kurbit                 | Bredband2  |              | Native IPv6 in production    |
+| Kurbit                 | Telia      |              | Native IPv6 in production    |
 
 ## Mobile Operators
 
